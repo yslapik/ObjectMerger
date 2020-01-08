@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectMerger", "ObjectMerger\ObjectMerger.csproj", "{C9ECC877-F8D2-4756-AACD-28AC5BA899DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectMerger.UnitTests", "ObjectMerger.UnitTests\ObjectMerger.UnitTests.csproj", "{364F993F-3F47-4883-98C4-F9173A3EF064}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9ECC877-F8D2-4756-AACD-28AC5BA899DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9ECC877-F8D2-4756-AACD-28AC5BA899DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9ECC877-F8D2-4756-AACD-28AC5BA899DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9ECC877-F8D2-4756-AACD-28AC5BA899DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{364F993F-3F47-4883-98C4-F9173A3EF064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{364F993F-3F47-4883-98C4-F9173A3EF064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{364F993F-3F47-4883-98C4-F9173A3EF064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{364F993F-3F47-4883-98C4-F9173A3EF064}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73A1CB22-0DCD-45EF-8311-4B7505CCF2F3}
+	EndGlobalSection
+EndGlobal
